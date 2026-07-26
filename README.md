@@ -106,7 +106,6 @@ End-to-end machine learning pipeline demonstrating modern MLOps practices.
 ## 🤝 Let's Connect
 
 - GitHub: https://github.com/sangeetha-2006
-- LinkedIn: *(Add your LinkedIn URL here)*
 
 ---
 
