@@ -13,7 +13,6 @@ I am a B.Tech student specializing in Data Science, passionate about Machine Lea
 - 💻 Interested in Data Science, Machine Learning, Deep Learning, NLP, and MLOps
 - 🌱 Currently learning MLOps, LLMs, and Agentic AI
 - 📚 Practicing DSA regularly on NeetCode and LeetCode
-- 🎯 Goal: Become a Data Scientist
 
 ---
 
